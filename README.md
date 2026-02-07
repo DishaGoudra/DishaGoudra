@@ -1,9 +1,6 @@
 ## Hi👋,I'm Disha Goudra!
 
-<!--
-**DishaGoudra/DishaGoudra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on improving my coding skills and building projects to strengthen my development knowledge.
 - 🌱 I’m currently learning  Web Development and problem-solving
